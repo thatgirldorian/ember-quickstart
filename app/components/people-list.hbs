@@ -1,12 +1,14 @@
 
-<h2>{{@title}}</h2>
+<h2 class="font-medium leading-tight text-3xl mt-0 mb-2 text-black-600 flex justify-center">{{@title}}</h2>
 
-<ul>
+<div class="flex justify-center">
+    <ul class="bg-white rounded-lg border border-gray-200 w-96 text-gray-900">
     {{!-- loop through an array of SFF Authors and return a list --}}
     {{#each @people as |person|}}
-    <li>
+    <li class="px-6 py-2 border-b border-gray-200 w-full rounded-t-lg">
         <button type="button" {{on 'click' (fn this.showPerson person)}}>{{person}}</button>
     </li>
     {{/each}}
 </ul>
+</div>
 
