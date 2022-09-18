@@ -1,5 +1,13 @@
 {{page-title "SffAuthors"}}
 
 <h2>A list of Female SFF Authors</h2>
+<ul>
+    {{!-- loop through an array of SFF Authors and return a list --}}
+    {{#each @model as |sffAuthor|}}
+    <li>{{sffAuthor}}</li>
+    {{/each}}
+</ul>
+
+
 
 {{outlet}}
