@@ -13,7 +13,7 @@ I struggled with wiring up Tailwind CSS, but I finally figured this out and wrot
 - Netlify
 
 <h3>Link to site:</h3>
-
+https://chimerical-taiyaki-e73d5c.netlify.app/sff-authors
 
 <h3>Screenshare:</h3>
 
