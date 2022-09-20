@@ -1,9 +1,9 @@
 # ember-quickstart
 
-This is 
+This is a simple web application that I used to get started with Ember. It's built using HTML, JavaScript, Tailwind CSS, and some of Ember's best features.
 
 <h3>Issues faced & resolution:</h3>
-I struggled with 
+I struggled with wiring up Tailwind CSS, but I finally figured this out and wrote a blog post here:
 
 <h3>Technology used:</h3>
 
