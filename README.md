@@ -1,5 +1,24 @@
 # ember-quickstart
 
+This is 
+
+<h3>Issues faced & resolution:</h3>
+I struggled with 
+
+<h3>Technology used:</h3>
+
+- Ember.js
+- Tailwind CSS
+- GitHub
+- Netlify
+
+<h3>Link to site:</h3>
+
+
+<h3>Screenshare:</h3>
+
+
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
