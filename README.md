@@ -3,7 +3,7 @@
 This is a simple web application that I used to get started with Ember. It's built using HTML, JavaScript, Tailwind CSS, and some of Ember's best features.
 
 <h3>Issues faced & resolution:</h3>
-I struggled with wiring up Tailwind CSS, but I finally figured this out and wrote a blog post here:
+I struggled with wiring up Tailwind CSS, but I finally figured this out and wrote a blog post here: https://codechunks.hashnode.dev/how-to-install-tailwind-css-in-a-new-ember-app-cl8cydnbz01ijvnnv1r5wfljl.
 
 <h3>Technology used:</h3>
 
